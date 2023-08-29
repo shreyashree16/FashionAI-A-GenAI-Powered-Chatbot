@@ -1,0 +1,311 @@
+Male Recommendations:
+
+Scenario: Casual Day Out (Male, Age: 20s, Location: Mumbai)
+User Query: "What should I wear for a casual day out?"
+Recommendation:
+- Outfit: Distressed skinny jeans, graphic t-shirt, lightweight hoodie.
+- Accessories: Slip-on sneakers, snapback cap, urban backpack.
+- Styling Tips: Opt for breathable fabrics due to Mumbai's climate and add a pop of color with your hoodie.
+
+Scenario: Festive Occasion (Male, Age: 30s, Location: Delhi)
+User Query: "What's appropriate for a festive occasion?"
+Recommendation:
+- Outfit: Kurta-pajama set with embroidered details.
+- Accessories: Mojari shoes, silk scarf, classic wristwatch.
+- Styling Tips: Embrace traditional Indian wear with intricate embroidery for a festive celebration in Delhi.
+
+Scenario: Beach Getaway (Male, Age: 40s, Location: Goa)
+User Query: "What should I pack for a beach vacation?"
+Recommendation:
+- Outfit: Linen button-down shirt, tailored swim shorts.
+- Accessories: Straw fedora, polarized sunglasses, flip-flop sandals.
+- Styling Tips: Opt for relaxed, beachy styles and light fabrics to suit Goa's coastal vibe.
+
+Scenario: Mountain Retreat (Male, Age: 50s, Location: Shimla)
+User Query: "What's a suitable outfit for a mountain retreat?"
+Recommendation:
+- Outfit: Cable-knit sweater, corduroy trousers, hiking boots.
+- Accessories: Woolen beanie, wool scarf, leather gloves.
+- Styling Tips: Layer up with warm fabrics to stay cozy during your visit to Shimla.
+
+Female Recommendations:
+
+Scenario: Casual Day Out (Female, Age: 20s, Location: Bangalore)
+User Query: "What should I wear for a casual day out?"
+Recommendation:
+- Outfit: High-waisted wide-leg trousers, cropped blouse, denim jacket.
+- Accessories: White sneakers, oversized sunglasses, crossbody bag.
+- Styling Tips: Choose comfortable and versatile pieces suitable for Bangalore's mild climate.
+
+Scenario: Festive Occasion (Female, Age: 30s, Location: Kolkata)
+User Query: "What's appropriate for a festive occasion?"
+Recommendation:
+- Outfit: Saree with traditional handloom work.
+- Accessories: Jhumka earrings, bangles, embellished clutch.
+- Styling Tips: Embrace the elegance of a saree adorned with regional craftsmanship for a Kolkata celebration.
+
+Scenario: Beach Getaway (Female, Age: 40s, Location: Kerala)
+User Query: "What should I pack for a beach vacation?"
+Recommendation:
+- Outfit: Flowy maxi dress with tropical print, flat sandals.
+- Accessories: Wide-brimmed sun hat, oversized sunglasses, woven tote.
+- Styling Tips: Opt for lightweight fabrics and vibrant prints suited to Kerala's coastal beauty.
+
+Scenario: Mountain Retreat (Female, Age: 50s, Location: Manali)
+User Query: "What's a suitable outfit for a mountain retreat?"
+Recommendation:
+- Outfit: Knit sweater dress, leggings, ankle boots.
+- Accessories: Woolen scarf, beanie, crossbody bag.
+- Styling Tips: Stay cozy with layers and warm accessories for a visit to chilly Manali.
+
+Male Recommendations:
+
+Scenario: Festive Occasion (Male, Age: 20s, Location: Jaipur)
+User Query: "What should I wear for a festive occasion?"
+Recommendation:
+- Outfit: Bandhgala jacket with intricate embroidery, churidar pants.
+- Accessories: Mojari shoes, turban, pocket square.
+- Styling Tips: Embrace the regal elegance of Rajasthani fashion with rich fabrics and ornate details.
+
+Scenario: Family Wedding (Male, Age: 30s, Location: Hyderabad)
+User Query: "What's suitable for a family wedding?"
+Recommendation:
+- Outfit: Sherwani with gold accents, dhoti pants.
+- Accessories: Traditional juti shoes, statement brooch, elegant wristwatch.
+- Styling Tips: Go for opulent traditional wear to complement the grandeur of a Hyderabad wedding.
+
+Scenario: Diwali Celebration (Male, Age: 40s, Location: Mumbai)
+User Query: "What should I wear for Diwali?"
+Recommendation:
+- Outfit: Kurta-pajama set with festive embroidery.
+- Accessories: Embellished mojari shoes, safa (turban), ethnic wristwear.
+- Styling Tips: Opt for vibrant colors and traditional Indian accessories to celebrate Diwali in style.
+
+Scenario: Holi Festival (Male, Age: 50s, Location: Mathura)
+User Query: "What's a suitable outfit for Holi?"
+Recommendation:
+- Outfit: Kurta with white dhoti-style pants.
+- Accessories: Sandals, colorful bandana, sunglasses.
+- Styling Tips: Choose white clothing as a canvas for the vibrant colors of Holi in Mathura.
+
+Female Recommendations:
+
+Scenario: Festive Occasion (Female, Age: 20s, Location: Udaipur)
+User Query: "What should I wear for a festive occasion?"
+Recommendation:
+- Outfit: Lehenga choli with intricate mirror work.
+- Accessories: Jhumka earrings, embellished clutch, traditional juttis.
+- Styling Tips: Embrace the beauty of Rajasthani fashion with colorful embroidery and ethnic accessories.
+
+Scenario: Family Wedding (Female, Age: 30s, Location: Delhi)
+User Query: "What's suitable for a family wedding?"
+Recommendation:
+- Outfit: Anarkali suit with intricate zari work.
+- Accessories: Statement necklace, embellished heels, traditional bangles.
+- Styling Tips: Opt for regal and elegant attire to complement a lavish Delhi wedding.
+
+Scenario: Diwali Celebration (Female, Age: 40s, Location: Kolkata)
+User Query: "What should I wear for Diwali?"
+Recommendation:
+- Outfit: Saree with intricate Bengal handloom work.
+- Accessories: Ethnic bangles, embellished sandals, traditional bindi.
+- Styling Tips: Choose a beautifully woven saree to celebrate Diwali with a touch of Kolkata's culture.
+
+Scenario: Holi Festival (Female, Age: 50s, Location: Vrindavan)
+User Query: "What's a suitable outfit for Holi?"
+Recommendation:
+- Outfit: White salwar kameez set.
+- Accessories: Comfortable sneakers, colorful scarf, sunglasses.
+- Styling Tips: Opt for white clothing to fully enjoy the vibrant colors of Holi in Vrindavan.
+
+Male Recommendations:
+
+Scenario: Karwa Chauth Celebration (Male, Age: 20s, Location: Delhi)
+User Query: "What should I wear for Karwa Chauth?"
+Recommendation:
+- Outfit: Kurta-pajama set with intricate details.
+- Accessories: Mojari shoes, ethnic wristwear, traditional turban.
+- Styling Tips: Choose festive colors and traditional accessories to celebrate Karwa Chauth in Delhi.
+
+Scenario: Eid Festival (Male, Age: 30s, Location: Hyderabad)
+User Query: "What's suitable for Eid?"
+Recommendation:
+- Outfit: Pathani suit with embroidery.
+- Accessories: Traditional juti shoes, elegant wristwatch, pocket square.
+- Styling Tips: Opt for a classic Pathani suit in rich colors for a stylish Eid celebration.
+
+Scenario: Onam Celebration (Male, Age: 40s, Location: Kerala)
+User Query: "What should I wear for Onam?"
+Recommendation:
+- Outfit: White dhoti with golden border, traditional Kerala shirt.
+- Accessories: Sandals, floral garland (pookalam), sunglasses.
+- Styling Tips: Embrace the simplicity of traditional Kerala attire for the vibrant Onam celebration.
+
+Scenario: Ganesh Chaturthi (Male, Age: 50s, Location: Mumbai)
+User Query: "What's suitable for Ganesh Chaturthi?"
+Recommendation:
+- Outfit: Traditional kurta with dhoti-style pants.
+- Accessories: Kolhapuri sandals, rudraksha mala, safa (turban).
+- Styling Tips: Choose traditional Maharashtrian attire for the lively Ganesh Chaturthi celebrations.
+
+Female Recommendations:
+
+Scenario: Karwa Chauth Celebration (Female, Age: 20s, Location: Jaipur)
+User Query: "What should I wear for Karwa Chauth?"
+Recommendation:
+- Outfit: Lehenga choli with intricate embroidery.
+- Accessories: Traditional jhumka earrings, bangles, embellished clutch.
+- Styling Tips: Opt for vibrant hues and detailed jewelry to celebrate Karwa Chauth in Jaipur.
+
+Scenario: Karwa Chauth Celebration (Female, Age: 20s, Location: Muzzafarpur)
+User Query: "What should I wear for Karwa Chauth?"
+Recommendation:
+- Outfit: Lehenga choli with intricate embroidery.
+- Accessories: Traditional jhumka earrings, bangles, embellished clutch.
+- Styling Tips: Opt for vibrant hues and detailed jewelry to celebrate Karwa Chauth in Jaipur.
+
+Scenario: Eid Festival (Female, Age: 30s, Location: Lucknow)
+User Query: "What's suitable for Eid?"
+Recommendation:
+- Outfit: Anarkali suit with chikankari embroidery.
+- Accessories: Statement jhumka earrings, embellished sandals, ethnic clutch.
+- Styling Tips: Choose elegant chikankari work for a graceful Eid outfit in Lucknow.
+
+Scenario: Onam Celebration (Female, Age: 40s, Location: Kerala)
+User Query: "What should I wear for Onam?"
+Recommendation:
+- Outfit: Traditional Kerala saree with kasavu border.
+- Accessories: Gold jhumka earrings, jasmine flowers (mullapoo), traditional bangles.
+- Styling Tips: Embrace the timeless elegance of a kasavu saree for Onam celebrations.
+
+Scenario: Ganesh Chaturthi (Female, Age: 50s, Location: Mumbai)
+User Query: "What's suitable for Ganesh Chaturthi?"
+Recommendation:
+- Outfit: Traditional silk saree with zari work.
+- Accessories: Gold necklace set, gajra (flower garland), bindi.
+- Styling Tips: Opt for a classic silk saree to capture the essence of Ganesh Chaturthi in Mumbai.
+
+Male Recommendations:
+
+Scenario: Pongal Celebration (Male, Age: 20s, Location: Chennai)
+User Query: "What should I wear for Pongal?"
+Recommendation:
+- Outfit: Veshti (dhoti) with silk shirt.
+- Accessories: Traditional sandals, angavastram (shawl), vibhuti on forehead.
+- Styling Tips: Opt for traditional South Indian attire with a touch of elegance for Pongal celebrations.
+
+Scenario: Diwali Festival (Male, Age: 30s, Location: Varanasi)
+User Query: "What's suitable for Diwali?"
+Recommendation:
+- Outfit: Sherwani with intricate brocade work, churidar pants.
+- Accessories: Mojari shoes, traditional turban, pocket square.
+- Styling Tips: Choose rich fabrics and traditional accessories for a festive Diwali look in Varanasi.
+
+Scenario: Baisakhi Celebration (Male, Age: 40s, Location: Amritsar)
+User Query: "What should I wear for Baisakhi?"
+Recommendation:
+- Outfit: Kurta-pajama set with traditional embroidery.
+- Accessories: Turban, mojari shoes, beaded necklace.
+- Styling Tips: Embrace the vibrant spirit of Punjab with colorful attire for Baisakhi celebrations.
+
+Scenario: Eid Festival (Male, Age: 50s, Location: Srinagar)
+User Query: "What's suitable for Eid?"
+Recommendation:
+- Outfit: Traditional Kashmiri pheran with intricate embroidery.
+- Accessories: Pashmina shawl, embroidered cap, traditional sandals.
+- Styling Tips: Choose traditional Kashmiri attire to celebrate Eid in the picturesque city of Srinagar.
+
+Female Recommendations:
+
+Scenario: Pongal Celebration (Female, Age: 20s, Location: Madurai)
+User Query: "What should I wear for Pongal?"
+Recommendation:
+- Outfit: Kanjeevaram silk saree, traditional blouse.
+- Accessories: Gold jewelry, jasmine flowers (gajra), traditional bangles.
+- Styling Tips: Opt for a beautiful silk saree and traditional jewelry to celebrate Pongal in Madurai.
+
+Scenario: Diwali Festival (Female, Age: 30s, Location: Jaipur)
+User Query: "What's suitable for Diwali?"
+Recommendation:
+- Outfit: Anarkali suit with vibrant Rajasthani prints.
+- Accessories: Statement jhumka earrings, mojari shoes, ethnic clutch.
+- Styling Tips: Choose bold prints and intricate embroidery for a festive Diwali look in Jaipur.
+
+Scenario: Baisakhi Celebration (Female, Age: 40s, Location: Chandigarh)
+User Query: "What should I wear for Baisakhi?"
+Recommendation:
+- Outfit: Patiala suit with phulkari work.
+- Accessories: Traditional jutti shoes, statement earrings, embroidered clutch.
+- Styling Tips: Opt for colorful phulkari work to celebrate Baisakhi with traditional flair.
+
+Scenario: Eid Festival (Female, Age: 50s, Location: Lucknow)
+User Query: "What's suitable for Eid?"
+Recommendation:
+- Outfit: Lucknowi chikankari suit with intricate embroidery.
+- Accessories: Pearl necklace, embellished sandals, traditional bangles.
+- Styling Tips: Choose the delicate elegance of chikankari for a refined Eid look in Lucknow.
+
+
+
+
+Out-of-Context Queries –
+
+1. User Query: "What's the capital of France?"
+Chatbot Response: "Hello! I'm a fashion outfit recommendation chatbot and specialize in providing fashion advice. Unfortunately, I can't help you with that question."
+
+2. User Query: "How do I solve quadratic equations?"
+Chatbot Response: "Greetings! I'm here to assist with fashion outfit recommendations. Solving quadratic equations is beyond my expertise."
+
+3. User Query: "Can you tell me the recipe for a chocolate cake?"
+Chatbot Response: "Hi there! My focus is on fashion outfit recommendations. Regrettably, I don't have recipes in my repertoire."
+
+4. User Query: "What's the weather forecast for tomorrow?"
+Chatbot Response: "Hello! I'm here to help you with fashion outfit suggestions. I'm not equipped to provide weather forecasts."
+
+5. User Query: "Tell me about the history of the Roman Empire."
+Chatbot Response: "Hi! I'm a fashion outfit recommendation chatbot. While history is fascinating, I'm here to advise on fashion choices."
+
+6. User Query: "What's the formula for calculating the area of a circle?"
+Chatbot Response: "Greetings! My area of expertise is fashion outfit recommendations. Calculating the area of a circle is not within my capabilities."
+
+7. User Query: "How can I improve my basketball shooting accuracy?"
+Chatbot Response: "Hello! I'm here for fashion outfit recommendations. Enhancing basketball skills isn't something I can assist with."
+
+8. User Query: "Can you translate this English sentence to Spanish?"
+Chatbot Response: "Hi there! I specialize in fashion outfit suggestions. I'm not proficient in translation services."
+
+9. User Query: "Tell me a joke!"
+Chatbot Response: "Sure thing! Knock-knock. Who's there? Fashion. Fashion who? Fashion outfit recommendations are my forte!"
+
+10. User Query: "What's the latest news about technology?"
+Chatbot Response: "Hello! I'm here to offer fashion outfit recommendations. Staying updated on technology news isn't my area of expertise."
+
+11. User Query: "How do I change a flat tire on my car?"
+Chatbot Response: "Hello! I specialize in fashion outfit recommendations. Fixing flat tires isn't part of my skill set."
+
+12. User Query: "Can you recommend a good book to read?"
+Chatbot Response: "Greetings! My expertise lies in fashion outfit suggestions. I'm not equipped to provide book recommendations."
+
+13. User Query: "What's the best way to train a puppy?"
+Chatbot Response: "Hi there! I'm here to help with fashion outfit recommendations. Training puppies isn't within my purview."
+
+14. User Query: "Tell me the steps to bake a loaf of bread."
+Chatbot Response: "Hello! I'm a fashion outfit recommendation chatbot. Baking bread is not something I can guide you through."
+
+15. User Query: "What's the average lifespan of a sea turtle?"
+Chatbot Response: "Hi! My focus is on fashion outfit suggestions. Sea turtle lifespans aren't within my area of knowledge."
+
+16. User Query: "How can I grow roses in my garden?"
+Chatbot Response: "Hello! I specialize in fashion outfit recommendations. Gardening tips, like growing roses, are not my forte."
+
+17. User Query: "What's the best way to meditate?"
+Chatbot Response: "Greetings! I'm here for fashion outfit advice. Meditation techniques aren't part of my expertise."
+
+18. User Query: "Can you help me troubleshoot my computer issue?"
+Chatbot Response: "Hi there! I offer fashion outfit recommendations. Solving computer issues isn't in my skill set."
+
+19. User Query: "Tell me about the benefits of eating organic food."
+Chatbot Response: "Hello! I'm here to provide fashion outfit suggestions. I can't discuss the benefits of organic food."
+
+20. User Query: "How can I improve my time management skills?"
+Chatbot Response: "Hello! I specialize in fashion outfit recommendations. Time management strategies are outside my scope."

@@ -1,0 +1,120 @@
+
+Male Recommendations:
+
+Scenario: Diwali Celebration (Male, Age: 20s)
+User Query: "What should I wear for Diwali?"
+Recommendation:
+- Outfit: Kurta-pajama set with intricate embroidery.
+- Accessories: Traditional mojari shoes, statement wristwear, pocket square.
+- Styling Tips: Choose festive colors and ornate detailing to celebrate Diwali.
+
+Scenario: Eid Festival (Male, Age: 30s)
+User Query: "What's suitable for Eid?"
+Recommendation:
+- Outfit: Pathani suit with elegant design.
+- Accessories: Traditional juti shoes, classic watch, pocket square.
+- Styling Tips: Opt for a classic Pathani suit with minimalistic details for Eid.
+
+Scenario: Ganesh Chaturthi (Male, Age: 40s)
+User Query: "What should I wear for Ganesh Chaturthi?"
+Recommendation:
+- Outfit: Traditional kurta-pajama with vibrant colors.
+- Accessories: Kolhapuri sandals, ethnic wristwear, traditional turban.
+- Styling Tips: Embrace traditional Indian colors to honor Lord Ganesha.
+
+Scenario: Karwa Chauth Celebration (Male, Age: 50s)
+User Query: "What's suitable for Karwa Chauth?"
+Recommendation:
+- Outfit: Embroidered sherwani with churidar pants.
+- Accessories: Classic mojari shoes, statement brooch, elegant wristwatch.
+- Styling Tips: Choose a regal sherwani with intricate embroidery for Karwa Chauth.
+
+Female Recommendations:
+
+Scenario: Diwali Celebration (Female, Age: 20s)
+User Query: "What should I wear for Diwali?"
+Recommendation:
+- Outfit: Anarkali suit with rich embellishments.
+- Accessories: Statement earrings, embellished sandals, ethnic clutch.
+- Styling Tips: Opt for a glamorous Anarkali suit with intricate details for Diwali.
+
+Scenario: Eid Festival (Female, Age: 30s)
+User Query: "What's suitable for Eid?"
+Recommendation:
+- Outfit: Floor-length Abaya gown with elegant design.
+- Accessories: Classic heels, statement necklace, clutch purse.
+- Styling Tips: Choose a modest yet elegant Abaya gown for Eid celebrations.
+
+Scenario: Ganesh Chaturthi (Female, Age: 40s)
+User Query: "What should I wear for Ganesh Chaturthi?"
+Recommendation:
+- Outfit: Saree with traditional embroidery.
+- Accessories: Ethnic jewelry, sandals, bindi.
+- Styling Tips: Opt for a beautifully embroidered saree to honor Lord Ganesha.
+
+Scenario: Karwa Chauth Celebration (Female, Age: 50s)
+User Query: "What's suitable for Karwa Chauth?"
+Recommendation:
+- Outfit: Embellished saree with intricate work.
+- Accessories: Traditional jewelry, heels, elegant clutch.
+- Styling Tips: Choose a stunning saree with elaborate detailing for Karwa Chauth.
+
+Male Recommendations:
+
+Scenario: Diwali Celebration
+User Query: "What should I wear for Diwali?"
+Recommendation:
+- Outfit: Embroidered kurta-pajama set.
+- Accessories: Traditional mojari shoes, statement wristwear, pocket square.
+- Styling Tips: Opt for festive colors and intricate embroidery to celebrate Diwali.
+
+Scenario: Eid Festival
+User Query: "What's suitable for Eid?"
+Recommendation:
+- Outfit: Pathani suit with classic design.
+- Accessories: Traditional juti shoes, elegant watch, pocket square.
+- Styling Tips: Choose a versatile Pathani suit with minimalistic details for Eid.
+
+Scenario: Ganesh Chaturthi
+User Query: "What should I wear for Ganesh Chaturthi?"
+Recommendation:
+- Outfit: Traditional kurta-pajama with vibrant hues.
+- Accessories: Kolhapuri sandals, ethnic wristwear, traditional headgear.
+- Styling Tips: Embrace traditional Indian colors to honor Lord Ganesha.
+
+Scenario: Karwa Chauth Celebration
+User Query: "What's suitable for Karwa Chauth?"
+Recommendation:
+- Outfit: Embellished sherwani with churidar pants.
+- Accessories: Classic mojari shoes, statement brooch, elegant watch.
+- Styling Tips: Opt for a regal sherwani with intricate work for Karwa Chauth.
+
+Female Recommendations:
+
+Scenario: Diwali Celebration
+User Query: "What should I wear for Diwali?"
+Recommendation:
+- Outfit: Anarkali suit with rich embellishments.
+- Accessories: Statement earrings, embellished sandals, ethnic clutch.
+- Styling Tips: Choose a glamorous Anarkali suit with intricate details for Diwali.
+
+Scenario: Eid Festival
+User Query: "What's suitable for Eid?"
+Recommendation:
+- Outfit: Floor-length Abaya gown with elegant design.
+- Accessories: Classic heels, statement necklace, clutch purse.
+- Styling Tips: Opt for a modest yet elegant Abaya gown for Eid celebrations.
+
+Scenario: Ganesh Chaturthi
+User Query: "What should I wear for Ganesh Chaturthi?"
+Recommendation:
+- Outfit: Saree with traditional embroidery.
+- Accessories: Ethnic jewelry, sandals, bindi.
+- Styling Tips: Choose a beautifully embroidered saree to honor Lord Ganesha.
+
+Scenario: Karwa Chauth Celebration
+User Query: "What's suitable for Karwa Chauth?"
+Recommendation:
+- Outfit: Embellished saree with intricate work.
+- Accessories: Traditional jewelry, heels, elegant clutch.
+- Styling Tips: Opt for a stunning saree with elaborate detailing for Karwa Chauth.

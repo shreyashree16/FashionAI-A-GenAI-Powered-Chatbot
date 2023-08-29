@@ -1,0 +1,14 @@
+# PyCharm
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment-related files
+Scripts/
+Lib/
+share/
+etc/
+pyvenv.cfg

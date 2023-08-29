@@ -1,0 +1,314 @@
+Male Recommendations:
+
+Scenario: Casual Day Out (Male)
+User Query: "What should I wear for a casual day out?"
+Recommendation:
+- Outfit: Slim-fit jeans, plain white t-shirt, lightweight bomber jacket.
+- Accessories: Sneakers, baseball cap, aviator sunglasses.
+- Styling Tips: Roll up the jeans slightly and keep the bomber jacket unzipped for a relaxed look.
+
+Scenario: Formal Event (Male)
+User Query: "What's appropriate for a formal event?"
+Recommendation:
+- Outfit: Charcoal gray suit, crisp white dress shirt, silk tie.
+- Accessories: Black leather Oxford shoes, classic cufflinks, leather belt.
+- Styling Tips: Ensure the suit is well-tailored and pair it with a subtly patterned tie for added sophistication.
+
+Scenario: Workout Session (Male)
+User Query: "What's a good workout outfit?"
+Recommendation:
+- Outfit: Moisture-wicking shorts, fitted workout tank.
+- Accessories: Athletic sneakers, sweat-wicking headband, fitness tracker.
+- Styling Tips: Opt for breathable materials and comfortable sneakers that offer proper support.
+
+Scenario: Beach Vacation (Male)
+User Query: "What should I pack for a beach vacation?"
+Recommendation:
+- Outfit: Linen button-up shirt, tailored swim shorts.
+- Accessories: Floppy hat, polarized sunglasses, flip-flop sandals.
+- Styling Tips: Choose lightweight and airy fabrics suitable for the beach environment.
+
+Scenario: Business Casual (Male)
+User Query: "What's suitable for a business casual dress code?"
+Recommendation:
+- Outfit: Chinos, dress shirt, unstructured blazer.
+- Accessories: Loafers, leather belt, minimalist wristwatch.
+- Styling Tips: Keep the look polished with a well-fitted blazer and classic leather accessories.
+
+Female Recommendations:
+
+Scenario: Casual Day Out (Female)
+User Query: "What should I wear for a casual day out?"
+Recommendation:
+- Outfit: High-waisted jeans, relaxed graphic t-shirt, denim jacket.
+- Accessories: Sneakers, wide-brimmed hat, layered necklaces.
+- Styling Tips: Cuff the jeans and drape the denim jacket over your shoulders for a stylish touch.
+
+Scenario: Formal Event (Female)
+User Query: "What's appropriate for a formal event?"
+Recommendation:
+- Outfit: Floor-length evening gown with subtle embellishments.
+- Accessories: Strappy heels, elegant clutch, statement earrings.
+- Styling Tips: Opt for a dress that complements your figure and add accessories that enhance the elegance.
+
+Scenario: Workout Session (Female)
+User Query: "What's a stylish workout outfit?"
+Recommendation:
+- Outfit: High-waisted leggings, moisture-wicking sports bra, lightweight tank top.
+- Accessories: Athletic sneakers, hair tie bracelet, gym bag.
+- Styling Tips: Mix and match coordinating colors and choose functional activewear.
+
+Scenario: Beach Vacation (Female)
+User Query: "What should I pack for a beach vacation?"
+Recommendation:
+- Outfit: Flowy cover-up dress, strappy sandals, oversized sun hat.
+- Accessories: Beach tote bag, statement sunglasses, layered bracelets.
+- Styling Tips: Opt for breathable fabrics and accessories that offer sun protection.
+
+Scenario: Business Casual (Female)
+User Query: "What's suitable for a business casual dress code?"
+Recommendation:
+- Outfit: A-line skirt, blouse, fitted blazer.
+- Accessories: Pointed-toe flats, structured handbag, stud earrings.
+- Styling Tips: Pair classic pieces with subtle patterns or colors to express your style within the dress code.
+
+Male Recommendations:
+
+Scenario: Beach Vacation (Male)
+User Query: "What should I pack for a beach vacation?"
+Recommendation:
+- Outfit: Linen button-down shirt, tailored swim shorts.
+- Accessories: Wide-brimmed straw hat, polarized sunglasses, flip-flop sandals.
+- Styling Tips: Opt for light colors and breathable fabrics to stay cool and comfortable.
+
+Scenario: Outdoor Adventure (Male)
+User Query: "What's a practical outfit for an outdoor adventure?"
+Recommendation:
+- Outfit: Quick-dry cargo pants, moisture-wicking long-sleeve shirt.
+- Accessories: Hiking boots, wide-brimmed hat, backpack with hydration system.
+- Styling Tips: Choose functional gear and layer up for varying weather conditions.
+
+Scenario: City Street Style (Male)
+User Query: "What's a trendy urban outfit?"
+Recommendation:
+- Outfit: Distressed skinny jeans, graphic hoodie, denim jacket.
+- Accessories: High-top sneakers, beanie, statement watch.
+- Styling Tips: Incorporate edgy details and mix streetwear elements for a fashionable city look.
+
+Scenario: Sophisticated Evening (Male)
+User Query: "What's a polished evening outfit?"
+Recommendation:
+- Outfit: Tailored black suit, crisp white dress shirt, black silk tie.
+- Accessories: Leather dress shoes, pocket square, classic wristwatch.
+- Styling Tips: Opt for a timeless color palette and minimal accessories for a refined look.
+
+Female Recommendations:
+
+Scenario: Beach Vacation (Female)
+User Query: "What should I pack for a beach vacation?"
+Recommendation:
+- Outfit: Flowy cover-up dress, strappy sandals.
+- Accessories: Oversized sun hat, sunglasses with UV protection, beach tote bag.
+- Styling Tips: Choose vibrant prints and lightweight fabrics for a chic beach ensemble.
+
+Scenario: Outdoor Adventure (Female)
+User Query: "What's a practical outfit for an outdoor adventure?"
+Recommendation:
+- Outfit: Moisture-wicking leggings, moisture-wicking t-shirt.
+- Accessories: Hiking boots, wide-brimmed hat, backpack with hydration system.
+- Styling Tips: Prioritize comfort and functionality while adding a touch of sporty style.
+
+Scenario: City Street Style (Female)
+User Query: "What's a trendy urban outfit?"
+Recommendation:
+- Outfit: High-waisted distressed jeans, graphic t-shirt, leather moto jacket.
+- Accessories: Ankle boots, statement earrings, crossbody bag.
+- Styling Tips: Incorporate bold prints and accessories to create a head-turning street style look.
+
+Scenario: Sophisticated Evening (Female)
+User Query: "What's a polished evening outfit?"
+Recommendation:
+- Outfit: Floor-length gown with elegant draping, strappy heels.
+- Accessories: Chandelier earrings, embellished clutch, red lipstick.
+- Styling Tips: Choose luxurious fabrics and focus on timeless elegance with your accessories.
+
+Male Recommendations:
+
+Scenario: Summer Music Festival (Male)
+User Query: "What's a cool outfit for a music festival?"
+Recommendation:
+- Outfit: Distressed denim shorts, graphic tank top, lightweight kimono.
+- Accessories: Snapback hat, round sunglasses, slip-on sneakers.
+- Styling Tips: Layer with the kimono for a boho vibe, and add festival wristbands for extra flair.
+
+Scenario: Business Travel (Male)
+User Query: "What's suitable for business travel?"
+Recommendation:
+- Outfit: Charcoal gray trousers, fitted dress shirt, tailored blazer.
+- Accessories: Classic loafers, leather messenger bag, understated tie.
+- Styling Tips: Opt for wrinkle-resistant fabrics and versatile pieces for easy travel.
+
+Scenario: Art Gallery Opening (Male)
+User Query: "What should I wear to an art gallery opening?"
+Recommendation:
+- Outfit: Turtleneck sweater, slim-fit trousers, Chelsea boots.
+- Accessories: Leather watch, minimalist cufflinks, portfolio clutch.
+- Styling Tips: Choose neutral colors and sleek silhouettes to complement the artistic atmosphere.
+
+Scenario: Vintage Street Style (Male)
+User Query: "How can I create a vintage-inspired street style look?"
+Recommendation:
+- Outfit: Retro graphic t-shirt, high-waisted corduroy pants, denim jacket.
+- Accessories: Round sunglasses, vintage sneakers, leather backpack.
+- Styling Tips: Mix and match retro elements with modern streetwear for a unique ensemble.
+
+Female Recommendations:
+
+Scenario: Summer Music Festival (Female)
+User Query: "What's a stylish outfit for a music festival?"
+Recommendation:
+- Outfit: High-waisted denim shorts, crochet crop top, fringe kimono.
+- Accessories: Wide-brimmed hat with a ribbon, ankle boots, layered necklaces.
+- Styling Tips: Layer the kimono over your outfit for added texture and movement.
+
+Scenario: Business Travel (Female)
+User Query: "What's suitable for business travel?"
+Recommendation:
+- Outfit: Tailored ankle-length pants, silk blouse, lightweight blazer.
+- Accessories: Pointed-toe flats, structured tote bag, statement necklace.
+- Styling Tips: Opt for versatile pieces that can be mixed and matched for different looks.
+
+Scenario: Art Gallery Opening (Female)
+User Query: "What should I wear to an art gallery opening?"
+Recommendation:
+- Outfit: Midi wrap dress with artistic print, block-heel sandals.
+- Accessories: Statement earrings, clutch with metallic details, elegant bracelet.
+- Styling Tips: Choose a dress that celebrates creativity and accessorize with art-inspired pieces.
+
+Scenario: Vintage Street Style (Female)
+User Query: "How can I create a vintage-inspired street style look?"
+Recommendation:
+- Outfit: High-waisted wide-leg trousers, tucked-in printed blouse, cropped denim jacket.
+- Accessories: Cat-eye sunglasses, retro sneakers, crossbody saddlebag.
+- Styling Tips: Incorporate retro patterns and layer with a denim jacket for a nod to vintage style.
+
+Male Recommendations:
+
+Scenario: Casual Day Out (Male, Age: 20s, Location: Urban)
+User Query: "What should I wear for a casual day out?"
+Recommendation:
+- Outfit: Slim-fit ripped jeans, graphic tee, bomber jacket.
+- Accessories: High-top sneakers, beanie, urban backpack.
+- Styling Tips: Add a pop of color with your sneakers and choose a bold graphic tee.
+
+Scenario: Formal Event (Male, Age: 30s, Location: Suburban)
+User Query: "What's appropriate for a formal event?"
+Recommendation:
+- Outfit: Navy tailored suit, dress shirt, silk tie.
+- Accessories: Brown leather brogues, classic wristwatch, pocket square.
+- Styling Tips: Go for a modern fit with the suit and choose a tie with subtle pattern.
+
+Scenario: Beach Vacation (Male, Age: 40s, Location: Coastal)
+User Query: "What should I pack for a beach vacation?"
+Recommendation:
+- Outfit: Linen button-up shirt, tailored swim shorts.
+- Accessories: Straw fedora, polarized sunglasses, leather sandals.
+- Styling Tips: Opt for light, breathable fabrics and earthy tones for a relaxed coastal vibe.
+
+Scenario: Outdoor Adventure (Male, Age: 50s, Location: Mountainous)
+User Query: "What's a practical outfit for an outdoor adventure?"
+Recommendation:
+- Outfit: Outdoor performance pants, moisture-wicking long-sleeve shirt.
+- Accessories: Sturdy hiking boots, wide-brimmed hat, hiking backpack.
+- Styling Tips: Prioritize comfort and protection from the elements while exploring the mountains.
+
+Female Recommendations:
+
+Scenario: Casual Day Out (Female, Age: 20s, Location: Urban)
+User Query: "What should I wear for a casual day out?"
+Recommendation:
+- Outfit: High-waisted skinny jeans, graphic crop top, oversized denim jacket.
+- Accessories: Chunky sneakers, statement belt, crossbody bag.
+- Styling Tips: Embrace urban street style with bold accessories and a layered denim look.
+
+Scenario: Formal Event (Female, Age: 30s, Location: Suburban)
+User Query: "What's appropriate for a formal event?"
+Recommendation:
+- Outfit: Floor-length chiffon gown with embellishments.
+- Accessories: Strappy heels, statement earrings, clutch purse.
+- Styling Tips: Choose elegant and timeless pieces for a sophisticated suburban soirée.
+
+Scenario: Beach Vacation (Female, Age: 40s, Location: Coastal)
+User Query: "What should I pack for a beach vacation?"
+Recommendation:
+- Outfit: Flowy maxi dress, flat metallic sandals.
+- Accessories: Wide-brimmed sun hat, oversized sunglasses, beach tote.
+- Styling Tips: Opt for breezy fabrics and beachy accessories to match the coastal setting.
+
+Scenario: Outdoor Adventure (Female, Age: 50s, Location: Mountainous)
+User Query: "What's a practical outfit for an outdoor adventure?"
+Recommendation:
+- Outfit: Convertible hiking pants, moisture-wicking long-sleeve shirt.
+- Accessories: Sturdy hiking boots, wide-brimmed hat, hiking backpack.
+- Styling Tips: Prioritize functionality and comfort while exploring mountainous terrain.
+
+Male Recommendations:
+
+Scenario: Casual Day Out (Male, Age: 20s, Location: Urban)
+User Query: "What should I wear for a casual day out?"
+Recommendation:
+- Outfit: Slim-fit jogger pants, graphic hoodie, denim jacket.
+- Accessories: High-top sneakers, beanie, crossbody bag.
+- Styling Tips: Go for a monochrome color scheme and layer with a denim jacket for an urban edge.
+
+Scenario: Formal Event (Male, Age: 30s, Location: Urban)
+User Query: "What's appropriate for a formal event?"
+Recommendation:
+- Outfit: Charcoal gray three-piece suit, crisp white dress shirt, silk tie.
+- Accessories: Black oxford shoes, pocket square, elegant wristwatch.
+- Styling Tips: Choose a modern fit with a three-piece suit and add polished accessories.
+
+Scenario: Beach Vacation (Male, Age: 40s, Location: Tropical)
+User Query: "What should I pack for a beach vacation?"
+Recommendation:
+- Outfit: Linen button-down shirt, tailored swim shorts.
+- Accessories: Wide-brimmed hat, polarized sunglasses, leather sandals.
+- Styling Tips: Opt for lightweight and breathable fabrics in vibrant tropical hues.
+
+Scenario: Outdoor Adventure (Male, Age: 50s, Location: Wilderness)
+User Query: "What's a practical outfit for an outdoor adventure?"
+Recommendation:
+- Outfit: Convertible hiking pants, moisture-wicking long-sleeve shirt.
+- Accessories: Rugged hiking boots, wide-brimmed hat, backpack with hydration system.
+- Styling Tips: Prioritize durable materials and versatile layers for wilderness exploration.
+
+Female Recommendations:
+
+Scenario: Casual Day Out (Female, Age: 20s, Location: Urban)
+User Query: "What should I wear for a casual day out?"
+Recommendation:
+- Outfit: High-waisted mom jeans, cropped graphic sweatshirt, oversized denim jacket.
+- Accessories: Chunky sneakers, bucket hat, crossbody bag.
+- Styling Tips: Mix vintage-inspired pieces with streetwear elements for an edgy urban look.
+
+Scenario: Formal Event (Female, Age: 30s, Location: Urban)
+User Query: "What's appropriate for a formal event?"
+Recommendation:
+- Outfit: Ankle-length tailored jumpsuit, strappy heels.
+- Accessories: Statement earrings, clutch purse, sleek bracelet.
+- Styling Tips: Opt for a chic jumpsuit in a solid color and accessorize with bold jewelry.
+
+Scenario: Beach Vacation (Female, Age: 40s, Location: Tropical)
+User Query: "What should I pack for a beach vacation?"
+Recommendation:
+- Outfit: Flowy maxi dress with tropical print, flat metallic sandals.
+- Accessories: Wide-brimmed sun hat, oversized sunglasses, woven tote.
+- Styling Tips: Embrace vibrant prints and lightweight fabrics for a resort-worthy look.
+
+Scenario: Outdoor Adventure (Female, Age: 50s, Location: Wilderness)
+User Query: "What's a practical outfit for an outdoor adventure?"
+Recommendation:
+- Outfit: Moisture-wicking hiking pants, long-sleeve performance shirt.
+- Accessories: Sturdy hiking boots, wide-brimmed hat, hiking backpack.
+- Styling Tips: Prioritize comfort and functionality while exploring the wilderness.
+
